@@ -10,6 +10,8 @@ public class CourseApiApp {
 		
 		SpringApplication.run(CourseApiApp.class, args);
 		System.out.println("MY First project of Springboot to be uploaded on github ");
+		
+		System.out.println("This is my first change and trying to commit and push to github");
 
 	}
 
